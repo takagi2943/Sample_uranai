@@ -28,3 +28,18 @@ p {
   font-size: 28px;
   font-weight: bold;
 }
+
+
+
+#omikuji {
+  width: 240px;
+  height: 240px;
+  background-color: brown;
+  margin: 30px auto;
+  text-align: center;
+  line-height: 240px;
+  font-size: 32px;
+  font-weight: bold;
+  color: #fff;
+  user-select: none;
+}
